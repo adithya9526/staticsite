@@ -1,4 +1,8 @@
-#titlediv,#about{
+.titlediv{
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+
+}
+.about{
     font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
 }
 a{
